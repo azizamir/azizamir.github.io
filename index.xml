@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Aziz&#39;s Portfolio | Amirul Abdul Aziz</title>
+    <link>//chanin.tech/</link>
+    <description>Recent content on Aziz&#39;s Portfolio | Amirul Abdul Aziz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="//chanin.tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>//chanin.tech/about/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//chanin.tech/about/</guid>
+      <description>I&amp;rsquo;m a currently working as data analyst at Ula. My role revolves around delivering data-related queries and analysis to answer business questions, implement automation to reduce manual works, and developing as well as maintaining the company&amp;rsquo;s data pipeline. I&amp;rsquo;ve also worked at Kangean Energy Indonesia, Kargo Technologies, and Pure Earth Indonesia.
+I graduated from Universitas Brawijaya with a BE majoring in Geophysical Engineering. My undergraduate thesis topic was talking about petrophysical modeling titled ‘Petrophysical Modeling and Analysis to Discover the Reservoir Potential and Drilling Zone Prediction of Kittiwake Field, North Sea, United Kingdom’.</description>
+    </item>
+    
+    <item>
+      <title>Bank Personal Loan Modelling</title>
+      <link>//chanin.tech/projects/project-01/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//chanin.tech/projects/project-01/</guid>
+      <description>This project is about a bank which has a growing customer base where the majority of customers are depositors with varying size of deposits. Apart from the majority of customers that are depositors, several customers are also borrowers (asset customers). The bank planned to expand the asset customers to earn more through the interest on personal loans by converting the depositors (potential customers) to personal loan customers while retaining them as depositors.</description>
+    </item>
+    
+    <item>
+      <title>Nickel Laterite Exploration and Exploitation as Metals Resources Optimization and Indonesian Industry Support</title>
+      <link>//chanin.tech/publications/publication-01/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//chanin.tech/publications/publication-01/</guid>
+      <description>Abstract This paper discusses the positive and negative impacts of the tectonic and topographical patterns in the Indonesian region. The negative impacts are earthquakes and other geological disasters, while the positive impact is the abundance of nickel laterite resources, which can be a natural asset for the country if managed properly. Indonesia has 8% of the world&amp;rsquo;s nickel reserves, making it one of the largest nickel producing countries. However, the low utilization of these resources and the unavailability of smelters in several nickel mining areas indicate the need for geoscientists to improve their understanding of nickel laterite and update their knowledge on efficient exploration techniques.</description>
+    </item>
+    
+    <item>
+      <title>Supervised Learning Implementation for Electrofacies, Lithofacies, and Depositional Environment Prediction using K-Nearest Neighbors Algorithm</title>
+      <link>//chanin.tech/publications/publication-02/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//chanin.tech/publications/publication-02/</guid>
+      <description>Abstract In this recent years, digitalization and automation have been massively transforming global industries to a new era of technology. This also applies in the petroleum industry by utilizing machine learning to aid exploration activities and analyze past data to extract the unseen data. This research implemented the usage of machine learning in petroleum geoscience by utilized the k-nearest neighbor (knn) as the supervised learning model algorithm to predict electrofacies pattern, lithofacies, and depositional environment classification using p-2 and k-1 well data as training dataset and b-1 well data as testing dataset where all the wells are on the same area.</description>
+    </item>
+    
+  </channel>
+</rss>
