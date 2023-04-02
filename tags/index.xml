@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Aziz&#39;s Portfolio | Amirul Abdul Aziz</title>
-    <link>//chanin.tech/tags/</link>
+    <link>//azizamir.github.io/tags/</link>
     <description>Recent content in Tags on Aziz&#39;s Portfolio | Amirul Abdul Aziz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="//chanin.tech/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="//azizamir.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

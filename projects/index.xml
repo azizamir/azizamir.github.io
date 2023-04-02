@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on Aziz&#39;s Portfolio | Amirul Abdul Aziz</title>
-    <link>//chanin.tech/projects/</link>
+    <link>//azizamir.github.io/projects/</link>
     <description>Recent content in Projects on Aziz&#39;s Portfolio | Amirul Abdul Aziz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="//chanin.tech/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="//azizamir.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bank Personal Loan Modelling</title>
-      <link>//chanin.tech/projects/project-01/</link>
+      <link>//azizamir.github.io/projects/project-01/</link>
       <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>//chanin.tech/projects/project-01/</guid>
+      <guid>//azizamir.github.io/projects/project-01/</guid>
       <description>This project is about a bank which has a growing customer base where the majority of customers are depositors with varying size of deposits. Apart from the majority of customers that are depositors, several customers are also borrowers (asset customers). The bank planned to expand the asset customers to earn more through the interest on personal loans by converting the depositors (potential customers) to personal loan customers while retaining them as depositors.</description>
     </item>
     
