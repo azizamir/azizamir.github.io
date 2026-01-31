@@ -20,10 +20,10 @@ I hold a Bachelor of Engineering in Geophysical Engineering from Universitas Bra
     
     <item>
       <title>Qualitative Seismic Interpretation</title>
-      <link>//azizamir.github.io/projects-learning/project-02/</link>
+      <link>//azizamir.github.io/projects-learning/project-01/</link>
       <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>//azizamir.github.io/projects-learning/project-02/</guid>
+      <guid>//azizamir.github.io/projects-learning/project-01/</guid>
       <description>This is part of my learning routines where I enrolled in practical qualitative seismic interpretation courses in February 2024. I gained new knowledge on how to utilize Petrel features &amp;amp; perform effective seismic interpretation in Petrel.
 Figure 1. Types of seismic data and bit
 Figure 2. Petrel troubleshooting &amp;amp; features
@@ -33,10 +33,10 @@ Figure 4. Structural attribute to enchance interpretation process</description>
     
     <item>
       <title>Quantitative Seismic Interpretation</title>
-      <link>//azizamir.github.io/projects-learning/project-03/</link>
+      <link>//azizamir.github.io/projects-learning/project-02/</link>
       <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>//azizamir.github.io/projects-learning/project-03/</guid>
+      <guid>//azizamir.github.io/projects-learning/project-02/</guid>
       <description>In November 2024, I learn quantitative seismic interpretation through a public lecture course where I gained new knowledge on the theory of seismic QI, rock physics, and its implementation. This course taught me how to perform various seismic QI implementations, such as AVO modeling, pre-stack seismic inversion, and post-stack seismic inversion using demo data with Hampson-Russell software.
 Figure 1. AVO modeling
 Figure 2. Pre-stack seismic inversion
@@ -45,20 +45,11 @@ Figure 3. Post-stack seismic inversion</description>
     
     <item>
       <title>Static Reservoir Modeling</title>
-      <link>//azizamir.github.io/projects-learning/project-04/</link>
+      <link>//azizamir.github.io/projects-learning/project-03/</link>
       <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>//azizamir.github.io/projects-learning/project-04/</guid>
+      <guid>//azizamir.github.io/projects-learning/project-03/</guid>
       <description>As part of my learning routines, I’m reviewing my knowledge on reservoir modeling, particularly on static reservoir modeling workflow through a public course from March to October 2024. The course using the Gulfaks field, an oil &amp;amp; gas field located in the Norwegian part of the North Sea shelf that operated by Statoil since 1986, as the demo data. Throughout this course, I learn a complete workflow of reservoir static modeling, from data loading to volumetric calculation.</description>
-    </item>
-    
-    <item>
-      <title>Bank Personal Loan Modelling</title>
-      <link>//azizamir.github.io/projects-learning/project-01/</link>
-      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>//azizamir.github.io/projects-learning/project-01/</guid>
-      <description>This project is about a bank which has a growing customer base where the majority of customers are depositors with varying size of deposits. Apart from the majority of customers that are depositors, several customers are also borrowers (asset customers). The bank planned to expand the asset customers to earn more through the interest on personal loans by converting the depositors (potential customers) to personal loan customers while retaining them as depositors.</description>
     </item>
     
     <item>
