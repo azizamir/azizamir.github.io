@@ -6,7 +6,50 @@
     <description>Recent content on Aziz&#39;s Portfolio | Amirul Abdul Aziz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="//azizamir.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="//azizamir.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1D Basin Modeling</title>
+      <link>//azizamir.github.io/learnings/learning-04/</link>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//azizamir.github.io/learnings/learning-04/</guid>
+      <description>I was enrolled in practical courses on 1D basin modeling in September 2025. Throughout this course, I learned the fundamentals of basin modeling and common workflow of 1D basin modeling using Petromod software.
+Data Importing Importing the well &amp;amp; calibration data to be used for modeling process.
+Figure 1. Well &amp;amp; calibration data importing
+Model Setup Creating the 1D model and importing the main data (stratigraphy, age, thickness, deposition, erosion, lithology, PSE, TOC, kinetic, and HI) &amp;amp; boundary condition data (PWD, SWIT, HF).</description>
+    </item>
+    
+    <item>
+      <title>Qualitative Seismic Interpretation</title>
+      <link>//azizamir.github.io/learnings/learning-01/</link>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//azizamir.github.io/learnings/learning-01/</guid>
+      <description>I was enrolled in practical courses of qualitative seismic interpretation in February 2024. I gained practical experience in using Petrel features &amp;amp; perform effective seismic interpretation.
+Seismic Data Loading Importing .segy data, converting .segy into .zgy data to generate time slices, and reconnecting missing data.
+Figure 1. Types of seismic data and bit &amp;amp; petrel troubleshooting features
+Data Preparation for Seismic Intepretation Preparing the seismic data by adjusting the color table, opacity, and utilize the bump mapping features to enchance seismic interpretation process.</description>
+    </item>
+    
+    <item>
+      <title>Quantitative Seismic Interpretation</title>
+      <link>//azizamir.github.io/learnings/learning-02/</link>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//azizamir.github.io/learnings/learning-02/</guid>
+      <description>I was learned quantitative seismic interpretation through a public lecture course in November 2024. This course taught me how to perform various seismic QI implementations, such as AVO modeling, pre-stack seismic inversion, and post-stack seismic inversion using demo data with Hampson-Russell software.
+AVO Modeling Performed AVO modeling, including fluid replacement modeling (FRM), well log conditioning, wavelet &amp;amp; synthetic seismogram extraction, pick analysis, and AVO attribute volume analysis to analyze how different fluid types will affect rock property &amp;amp; AVO responses.</description>
+    </item>
+    
+    <item>
+      <title>Static Reservoir Modeling</title>
+      <link>//azizamir.github.io/learnings/learning-03/</link>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//azizamir.github.io/learnings/learning-03/</guid>
+      <description>As part of my learning routines, I’m reviewing my knowledge on reservoir modeling, particularly on static reservoir modeling workflow through a public course from March to October 2024. The course using the Gulfaks field, an oil &amp;amp; gas field located in the Norwegian part of the North Sea shelf that operated by Statoil since 1986, as the demo data. Throughout this course, I learn a complete workflow of reservoir static modeling, from data loading to volumetric calculation.</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>//azizamir.github.io/about/</link>
@@ -14,42 +57,8 @@
       
       <guid>//azizamir.github.io/about/</guid>
       <description>Hello, I’m Amirul Abdul Aziz, a petroleum geoscientist with a strong focus on reservoir modeling, integrated formation evaluation, and quantitative interpretation.
-Currently, I&amp;rsquo;m working as a Jr. New Venture Geoscientist at Proteknik Utama, focusing on basin-to-prospect-scale G&amp;amp;G studies. I&amp;rsquo;ve also worked at Kangean Energy Indonesia, Reckitt, Ula, Kargo Technologies, and Pure Earth Indonesia.
+Currently, I&amp;rsquo;m working as a Jr. New Venture Geoscientist - Geophysicist at Proteknik Gagah Energi, focusing on basin-to-prospect-scale G&amp;amp;G studies. I&amp;rsquo;ve also worked at Kangean Energy Indonesia, Reckitt, Ula, Kargo Technologies, and Pure Earth Indonesia.
 I hold a Bachelor of Engineering in Geophysical Engineering from Universitas Brawijaya. My undergraduate thesis titled “Petrophysical Modeling and Analysis for Reservoir Potential Assessment and Drilling Zone Prediction in the Kittiwake Field, North Sea, United Kingdom” focused on petrophysical analysis and reservoir modeling of the Kittiwake Field, North Sea, United Kingdom.</description>
-    </item>
-    
-    <item>
-      <title>Qualitative Seismic Interpretation</title>
-      <link>//azizamir.github.io/projects-learning/project-01/</link>
-      <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
-      
-      <guid>//azizamir.github.io/projects-learning/project-01/</guid>
-      <description>This is part of my learning routines where I enrolled in practical qualitative seismic interpretation courses in February 2024. I gained new knowledge on how to utilize Petrel features &amp;amp; perform effective seismic interpretation in Petrel.
-Figure 1. Types of seismic data and bit
-Figure 2. Petrel troubleshooting &amp;amp; features
-Figure 3. Seismic data preparation for seismic interpretation (opacity &amp;amp; bump maping)
-Figure 4. Structural attribute to enchance interpretation process</description>
-    </item>
-    
-    <item>
-      <title>Quantitative Seismic Interpretation</title>
-      <link>//azizamir.github.io/projects-learning/project-02/</link>
-      <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
-      
-      <guid>//azizamir.github.io/projects-learning/project-02/</guid>
-      <description>In November 2024, I learn quantitative seismic interpretation through a public lecture course where I gained new knowledge on the theory of seismic QI, rock physics, and its implementation. This course taught me how to perform various seismic QI implementations, such as AVO modeling, pre-stack seismic inversion, and post-stack seismic inversion using demo data with Hampson-Russell software.
-Figure 1. AVO modeling
-Figure 2. Pre-stack seismic inversion
-Figure 3. Post-stack seismic inversion</description>
-    </item>
-    
-    <item>
-      <title>Static Reservoir Modeling</title>
-      <link>//azizamir.github.io/projects-learning/project-03/</link>
-      <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
-      
-      <guid>//azizamir.github.io/projects-learning/project-03/</guid>
-      <description>As part of my learning routines, I’m reviewing my knowledge on reservoir modeling, particularly on static reservoir modeling workflow through a public course from March to October 2024. The course using the Gulfaks field, an oil &amp;amp; gas field located in the Norwegian part of the North Sea shelf that operated by Statoil since 1986, as the demo data. Throughout this course, I learn a complete workflow of reservoir static modeling, from data loading to volumetric calculation.</description>
     </item>
     
     <item>

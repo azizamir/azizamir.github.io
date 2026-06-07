@@ -2,22 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//azizamir.github.io/about/</loc>
-    <lastmod>2026-01-31T00:00:00+00:00</lastmod>
+    <loc>//azizamir.github.io/learnings/learning-04/</loc>
+    <lastmod>2026-06-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//azizamir.github.io/</loc>
-    <lastmod>2026-01-31T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//azizamir.github.io/projects-learning/</loc>
-    <lastmod>2026-01-31T00:00:00+00:00</lastmod>
+    <loc>//azizamir.github.io/learnings/</loc>
+    <lastmod>2026-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//azizamir.github.io/projects-learning/project-01/</loc>
-    <lastmod>2026-01-31T00:00:00+00:00</lastmod>
+    <loc>//azizamir.github.io/learnings/learning-01/</loc>
+    <lastmod>2026-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//azizamir.github.io/projects-learning/project-02/</loc>
-    <lastmod>2026-01-31T00:00:00+00:00</lastmod>
+    <loc>//azizamir.github.io/learnings/learning-02/</loc>
+    <lastmod>2026-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//azizamir.github.io/projects-learning/project-03/</loc>
+    <loc>//azizamir.github.io/learnings/learning-03/</loc>
+    <lastmod>2026-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//azizamir.github.io/about/</loc>
     <lastmod>2026-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//azizamir.github.io/publications/publication-01/</loc>
