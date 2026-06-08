@@ -20,21 +20,18 @@ Model Setup Creating the 1D model and importing the main data (stratigraphy, age
     </item>
     
     <item>
-      <title>Qualitative Seismic Interpretation</title>
-      <link>//azizamir.github.io/learnings/learning-01/</link>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <title>Static Reservoir Modeling</title>
+      <link>//azizamir.github.io/learnings/learning-03/</link>
+      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>//azizamir.github.io/learnings/learning-01/</guid>
-      <description>I was enrolled in practical courses of qualitative seismic interpretation in February 2024. I gained practical experience in using Petrel features &amp;amp; perform effective seismic interpretation.
-Seismic Data Loading Importing .segy data, converting .segy into .zgy data to generate time slices, and reconnecting missing data.
-Figure 1. Types of seismic data and bit &amp;amp; petrel troubleshooting features
-Data Preparation for Seismic Intepretation Preparing the seismic data by adjusting the color table, opacity, and utilize the bump mapping features to enchance seismic interpretation process.</description>
+      <guid>//azizamir.github.io/learnings/learning-03/</guid>
+      <description>As part of my learning routines, I’m reviewing my knowledge on reservoir modeling, particularly on static reservoir modeling workflow through a public course from March to October 2024. The course using the Gulfaks field, an oil &amp;amp; gas field located in the Norwegian part of the North Sea shelf that operated by Statoil since 1986, as the demo data. Throughout this course, I learn a complete workflow of reservoir static modeling, from data loading to volumetric calculation.</description>
     </item>
     
     <item>
       <title>Quantitative Seismic Interpretation</title>
       <link>//azizamir.github.io/learnings/learning-02/</link>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
       
       <guid>//azizamir.github.io/learnings/learning-02/</guid>
       <description>I was learned quantitative seismic interpretation through a public lecture course in November 2024. This course taught me how to perform various seismic QI implementations, such as AVO modeling, pre-stack seismic inversion, and post-stack seismic inversion using demo data with Hampson-Russell software.
@@ -42,12 +39,15 @@ AVO Modeling Performed AVO modeling, including fluid replacement modeling (FRM),
     </item>
     
     <item>
-      <title>Static Reservoir Modeling</title>
-      <link>//azizamir.github.io/learnings/learning-03/</link>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <title>Qualitative Seismic Interpretation</title>
+      <link>//azizamir.github.io/learnings/learning-01/</link>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
       
-      <guid>//azizamir.github.io/learnings/learning-03/</guid>
-      <description>As part of my learning routines, I’m reviewing my knowledge on reservoir modeling, particularly on static reservoir modeling workflow through a public course from March to October 2024. The course using the Gulfaks field, an oil &amp;amp; gas field located in the Norwegian part of the North Sea shelf that operated by Statoil since 1986, as the demo data. Throughout this course, I learn a complete workflow of reservoir static modeling, from data loading to volumetric calculation.</description>
+      <guid>//azizamir.github.io/learnings/learning-01/</guid>
+      <description>I was enrolled in practical courses of qualitative seismic interpretation in February 2024. I gained practical experience in using Petrel features &amp;amp; perform effective seismic interpretation.
+Seismic Data Loading Importing .segy data, converting .segy into .zgy data to generate time slices, and reconnecting missing data.
+Figure 1. Types of seismic data and bit &amp;amp; petrel troubleshooting features
+Data Preparation for Seismic Intepretation Preparing the seismic data by adjusting the color table, opacity, and utilize the bump mapping features to enchance seismic interpretation process.</description>
     </item>
     
     <item>
@@ -62,21 +62,21 @@ I hold a Bachelor of Engineering in Geophysical Engineering from Universitas Bra
     </item>
     
     <item>
-      <title>Nickel Laterite Exploration and Exploitation as Metals Resources Optimization and Indonesian Industry Support</title>
-      <link>//azizamir.github.io/publications/publication-01/</link>
-      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>//azizamir.github.io/publications/publication-01/</guid>
-      <description>Abstract This paper discusses the positive and negative impacts of the tectonic and topographical patterns in the Indonesian region. The negative impacts are earthquakes and other geological disasters, while the positive impact is the abundance of nickel laterite resources, which can be a natural asset for the country if managed properly. Indonesia has 8% of the world&amp;rsquo;s nickel reserves, making it one of the largest nickel producing countries. However, the low utilization of these resources and the unavailability of smelters in several nickel mining areas indicate the need for geoscientists to improve their understanding of nickel laterite and update their knowledge on efficient exploration techniques.</description>
-    </item>
-    
-    <item>
       <title>Supervised Learning Implementation for Electrofacies, Lithofacies, and Depositional Environment Prediction using K-Nearest Neighbors Algorithm</title>
       <link>//azizamir.github.io/publications/publication-02/</link>
-      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>//azizamir.github.io/publications/publication-02/</guid>
       <description>Abstract In this recent years, digitalization and automation have been massively transforming global industries to a new era of technology. This also applies in the petroleum industry by utilizing machine learning to aid exploration activities and analyze past data to extract the unseen data. This research implemented the usage of machine learning in petroleum geoscience by utilized the k-nearest neighbor (knn) as the supervised learning model algorithm to predict electrofacies pattern, lithofacies, and depositional environment classification using p-2 and k-1 well data as training dataset and b-1 well data as testing dataset where all the wells are on the same area.</description>
+    </item>
+    
+    <item>
+      <title>Nickel Laterite Exploration and Exploitation as Metals Resources Optimization and Indonesian Industry Support</title>
+      <link>//azizamir.github.io/publications/publication-01/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//azizamir.github.io/publications/publication-01/</guid>
+      <description>Abstract This paper discusses the positive and negative impacts of the tectonic and topographical patterns in the Indonesian region. The negative impacts are earthquakes and other geological disasters, while the positive impact is the abundance of nickel laterite resources, which can be a natural asset for the country if managed properly. Indonesia has 8% of the world&amp;rsquo;s nickel reserves, making it one of the largest nickel producing countries. However, the low utilization of these resources and the unavailability of smelters in several nickel mining areas indicate the need for geoscientists to improve their understanding of nickel laterite and update their knowledge on efficient exploration techniques.</description>
     </item>
     
   </channel>

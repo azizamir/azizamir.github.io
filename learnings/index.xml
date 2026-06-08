@@ -20,21 +20,18 @@ Model Setup Creating the 1D model and importing the main data (stratigraphy, age
     </item>
     
     <item>
-      <title>Qualitative Seismic Interpretation</title>
-      <link>//azizamir.github.io/learnings/learning-01/</link>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <title>Static Reservoir Modeling</title>
+      <link>//azizamir.github.io/learnings/learning-03/</link>
+      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>//azizamir.github.io/learnings/learning-01/</guid>
-      <description>I was enrolled in practical courses of qualitative seismic interpretation in February 2024. I gained practical experience in using Petrel features &amp;amp; perform effective seismic interpretation.
-Seismic Data Loading Importing .segy data, converting .segy into .zgy data to generate time slices, and reconnecting missing data.
-Figure 1. Types of seismic data and bit &amp;amp; petrel troubleshooting features
-Data Preparation for Seismic Intepretation Preparing the seismic data by adjusting the color table, opacity, and utilize the bump mapping features to enchance seismic interpretation process.</description>
+      <guid>//azizamir.github.io/learnings/learning-03/</guid>
+      <description>As part of my learning routines, I’m reviewing my knowledge on reservoir modeling, particularly on static reservoir modeling workflow through a public course from March to October 2024. The course using the Gulfaks field, an oil &amp;amp; gas field located in the Norwegian part of the North Sea shelf that operated by Statoil since 1986, as the demo data. Throughout this course, I learn a complete workflow of reservoir static modeling, from data loading to volumetric calculation.</description>
     </item>
     
     <item>
       <title>Quantitative Seismic Interpretation</title>
       <link>//azizamir.github.io/learnings/learning-02/</link>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
       
       <guid>//azizamir.github.io/learnings/learning-02/</guid>
       <description>I was learned quantitative seismic interpretation through a public lecture course in November 2024. This course taught me how to perform various seismic QI implementations, such as AVO modeling, pre-stack seismic inversion, and post-stack seismic inversion using demo data with Hampson-Russell software.
@@ -42,12 +39,15 @@ AVO Modeling Performed AVO modeling, including fluid replacement modeling (FRM),
     </item>
     
     <item>
-      <title>Static Reservoir Modeling</title>
-      <link>//azizamir.github.io/learnings/learning-03/</link>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <title>Qualitative Seismic Interpretation</title>
+      <link>//azizamir.github.io/learnings/learning-01/</link>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
       
-      <guid>//azizamir.github.io/learnings/learning-03/</guid>
-      <description>As part of my learning routines, I’m reviewing my knowledge on reservoir modeling, particularly on static reservoir modeling workflow through a public course from March to October 2024. The course using the Gulfaks field, an oil &amp;amp; gas field located in the Norwegian part of the North Sea shelf that operated by Statoil since 1986, as the demo data. Throughout this course, I learn a complete workflow of reservoir static modeling, from data loading to volumetric calculation.</description>
+      <guid>//azizamir.github.io/learnings/learning-01/</guid>
+      <description>I was enrolled in practical courses of qualitative seismic interpretation in February 2024. I gained practical experience in using Petrel features &amp;amp; perform effective seismic interpretation.
+Seismic Data Loading Importing .segy data, converting .segy into .zgy data to generate time slices, and reconnecting missing data.
+Figure 1. Types of seismic data and bit &amp;amp; petrel troubleshooting features
+Data Preparation for Seismic Intepretation Preparing the seismic data by adjusting the color table, opacity, and utilize the bump mapping features to enchance seismic interpretation process.</description>
     </item>
     
   </channel>
